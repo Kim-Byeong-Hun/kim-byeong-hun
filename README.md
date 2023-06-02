@@ -1,10 +1,11 @@
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/byeonghun-kim-896831279/" target="_blank" rel="noopener noreferrer">Byeonghun Kim</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
+<p>
 - 🎓 I'm a Computer Engineering undergrad  
 - 💻 I’m currently working at [Epsilon](https://www.epsilon.com/us) 
 - ⭐ 2021's Objective: Contribute more to open source
 - ⚡ I love photography, programming, data science and books 
-
+</p>
 
 #### Languages and Tools 
 <p>
@@ -23,7 +24,9 @@
 </p>
 
 <!--- snake -->
+<p>
 <div align="center">
   <img  src="https://github.com/Kim-Byeong-Hun/Kim-Byeong-Hun/blob/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
+</p>
