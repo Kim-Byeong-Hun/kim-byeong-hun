@@ -1,7 +1,7 @@
-<h2 align="left">Hi, I'm <a href="https://www.linkedin.com/in/byeonghun-kim-896831279/" target="_blank" rel="noopener noreferrer">Byeonghun</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25"/>
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/byeonghun-kim-896831279/" target="_blank" rel="noopener noreferrer">Byeonghun Kim</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25" max-width:100%/>
 
-#### About me
-- 🎓 I'm a Computer Vision Engineering undergrad  
+#### 
+- 🎓 I'm a Computer Engineering undergrad  
 - 💻 I’m currently working at [Epsilon](https://www.epsilon.com/us) 
 - ⭐ 2021's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love photography, programming, data science and books 
