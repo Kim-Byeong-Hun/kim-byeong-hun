@@ -1,13 +1,11 @@
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/byeonghun-kim-896831279/" target="_blank" rel="noopener noreferrer">Byeonghun Kim</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25" max-width:100%/>
-
- ---
   
 #### About me
 - 🎓 I graduated from a bachelor's degree in big data engineering and am preparing for a master's degree in the future convergence department  
 - 💻 I'm currently working as a platoon leader in the [Korea Army](https://www.army.mil.kr/sites/army/index.do) 
 - ⭐ My interests are Computer Vision, Autonomous vehicle and developing some useful and cool stuff :D <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-  ---
+---
 
 #### Languages and Tools 
 <p>
@@ -24,12 +22,10 @@
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
 </p>
 
-  ---
+---
   
 #### International Journal 
 - 1
-
-  ---
   
 #### International Conference
 - 1
