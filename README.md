@@ -2,7 +2,7 @@
 
 #### About me
 - 🎓 I graduated from a bachelor's degree in big data engineering and am preparing for a master's degree in the future convergence department  
-- 💻 I am currently working as a platoon leader in the [Korea Army](https://www.army.mil.kr/sites/army/index.do) 
+- 💻 I'm currently working as a platoon leader in the [Korea Army](https://www.army.mil.kr/sites/army/index.do) 
 - ⭐ My interests are Computer Vision, Autonomous vehicle and developing some useful and cool stuff :D <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
