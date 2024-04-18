@@ -34,5 +34,5 @@
 - **김병훈**, 노병준*, "무인 드론 기체 내 승객 위험 행동 감지를 위한 다중 비전 모델 스케줄링 시스템", 2024 한국 ITS 학회 춘계학술대회 논문집, 2024
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
