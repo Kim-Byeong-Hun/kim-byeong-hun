@@ -32,16 +32,18 @@
 </details>
 
 ---
-  
-#### International Journal 
-- [Unber review] **Byunghun Kim**, Byeongjoon Noh*, and Known Song* "Method on Efficient Operation of Multiple Models for Vision-based In-Flight Risky Behavior Recognition in UAM Safety and Security", Journal of Advanced Transportation IF=2.3
-
-#### International Conference
-- **Byeonghun Kim**, Insu Jeon, Chomyong Kim, Jung-Yeon Kim, Jiyoung Woo, and Byeongjoon Noh*, "Caregiver-Child Interaction Detection Model Based on Computer Vision to Measure Social Interaction Skills of Children with Developmental Disabilities", The 6th Engineering in Biomedical and Rehabilitation & Home Conference(EBRC&HOME)
-
-#### Domestic Conference
-- **김병훈**, 노병준*, "무인 드론 기체 내 승객 위험 행동 감지를 위한 다중 비전 모델 스케줄링 시스템", 2024 한국 ITS 학회 춘계학술대회 논문집, 2024
-
-
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
+---
+
+#### <details><summary>International Journal</summary>
+- [Unber review] **Byunghun Kim**, Byeongjoon Noh*, and Known Song* "Method on Efficient Operation of Multiple Models for Vision-based In-Flight Risky Behavior Recognition in UAM Safety and Security", Journal of Advanced Transportation IF=2.3
+</details>
+
+#### <details><summary>International Conference</summary>
+- **Byeonghun Kim**, Insu Jeon, Chomyong Kim, Jung-Yeon Kim, Jiyoung Woo, and Byeongjoon Noh*, "Caregiver-Child Interaction Detection Model Based on Computer Vision to Measure Social Interaction Skills of Children with Developmental Disabilities", The 6th Engineering in Biomedical and Rehabilitation & Home Conference(EBRC&HOME)
+</details>
+
+#### <details><summary>Domestic Conference</summary>
+- **김병훈**, 노병준*, "무인 드론 기체 내 승객 위험 행동 감지를 위한 다중 비전 모델 스케줄링 시스템", 2024 한국 ITS 학회 춘계학술대회 논문집, 2024
+</details>
