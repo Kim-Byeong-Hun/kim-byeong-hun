@@ -7,12 +7,14 @@
 
 ---
 
-#### Languages and Tools 
+#### <details><summary>Languages and Tools</summary>
 <p>
   <code><img height="25" src="svg/windows10.svg" alt="Windows"></code>
   <code><img height="25" src="svg/linux.svg" alt="Linux"></code>
+</p>
+<p>
   <code><img height="25" src="svg/anaconda.svg" alt="Anaconda"></code>
-   <code><img height="25" src="svg/overleaf.svg" alt="Overleaf"></code>
+  <code><img height="25" src="svg/overleaf.svg" alt="Overleaf"></code>
 </p>
 <p>
   <code><img height="25" src="svg/python.svg" alt="Python"></code>
@@ -27,6 +29,7 @@
   <code><img height="25" src="svg/numpy.svg" alt="Numpy"></code>
   <code><img height="25" src="svg/pandas.svg" alt="Pandas"></code>
 </p>
+</details>
 
 ---
   
