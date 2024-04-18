@@ -1,9 +1,9 @@
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/byeonghun-kim-896831279/" target="_blank" rel="noopener noreferrer">Byeonghun Kim</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25" max-width:100%/>
   
 #### About me
-- 🎓 I graduated from a bachelor's degree in big data engineering and am preparing for a master's degree in the future convergence department  
-- 💻 I'm currently working as a platoon leader in the [Korea Army](https://www.army.mil.kr/sites/army/index.do) 
-- ⭐ My interests are Computer Vision, Autonomous vehicle and developing some useful and cool stuff :D <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🎓 I graduated from the Department of AI and Big Data and am currently studying for a Master's degree in Computer Vision
+- ⭐ My research interests are computer vision for Human Pose Estimation and Risk Behavior Recognition, and developing some useful and cool stuff :D <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏢 The domains that most interest to me are Smart Cities, Smart Factories, and making them more efficient and reliable
 
 ---
 
@@ -25,16 +25,13 @@
 ---
   
 #### International Journal 
-- 1
-  
-#### International Conference
-- 1
+- [Unber review] **Byunghun Kim**, Byeongjoon Noh*, and Known Song* "Method on Efficient Operation of Multiple Models for Vision-based In-Flight Risky Behavior Recognition in UAM Safety and Security", Journal of Advanced Transportation IF=2.3
 
-#### Domestic Journal
-- 1
+#### International Conference
+- **Byeonghun Kim**, Insu Jeon, Chomyong Kim, Jung-Yeon Kim, Jiyoung Woo, and Byeongjoon Noh*, "Caregiver-Child Interaction Detection Model Based on Computer Vision to Measure Social Interaction Skills of Children with Developmental Disabilities", The 6th Engineering in Biomedical and Rehabilitation & Home Conference(EBRC&HOME)
 
 #### Domestic Conference
-- 1
+- **김병훈**, 노병준*, "무인 드론 기체 내 승객 위험 행동 감지를 위한 다중 비전 모델 스케줄링 시스템", 2024 한국 ITS 학회 춘계학술대회 논문집, 2024
 
 
 <!--- snake -->
