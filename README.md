@@ -9,8 +9,7 @@
 > - **Computer Vision**
 > - **Personalized Federated Learning**
 > - **Smart city & Mobility Environments**
-> - **LLM/LMM-based system advancements**
-> - **Autonomous driving safety and reliability**
+> - **LLM/LMM-based Autonomous driving safety system**
 ---
 > **📃[Papers]**
 
