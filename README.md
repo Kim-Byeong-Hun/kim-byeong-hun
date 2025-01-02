@@ -51,8 +51,6 @@
   <code><img height="25" src="svg/numpy.svg" alt="Numpy"></code>
   <code><img height="25" src="svg/pandas.svg" alt="Pandas"></code>
 </details>
----
+
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
-
----
