@@ -14,8 +14,8 @@
 > **📃[Papers]**
 
 > ***International Journal***
-> - [Under review] **Byeonghun Kim**, Byeongjoon Noh* "Federated Learning-based Road Surveillance System in Distributed CCTV Environment: Pedestrian Fall Recognition using Spatio-Temporal Attention Networks" **Applied Intelligence**
 > - [Under review] **Byeonghun Kim**, Byeongjoon Noh* "Pedestrian Collapse Detection Method with Federated Spatio-Temporal Transformers in Distributed Road Surveillance Systems" **IEEE Transactins of Intelligent Transportation Systems**
+> - **Byeonghun Kim**, Byeongjoon Noh* "Federated Learning-based Road Surveillance System in Distributed CCTV Environment: Pedestrian Fall Recognition using Spatio-Temporal Attention Networks" **Applied Intelligence**
 > - **Byeonghun Kim**, Byeongjoon Noh*, and Known Song* "Method on Efficient Operation of Multiple Models for Vision-based In-Flight Risky Behavior Recognition in UAM Safety and Security", **Journal of Advanced Transportation**
 
 > ***International Conference***
