@@ -19,6 +19,7 @@
 > - **Byeonghun Kim**, Byeongjoon Noh*, and Known Song* "Method on Efficient Operation of Multiple Models for Vision-based In-Flight Risky Behavior Recognition in UAM Safety and Security", **Journal of Advanced Transportation**
 
 > ***International Conference***
+> - Jaegyun Im, **Byeonghun Kim**, Joobin Jin, Byeongjoon Noh* "Traffic Context-Augmented Vehicle Trajectory Prediction Framework using Multimodal LLM" **IEEE ITSC 2025**
 > - **Byeonghun Kim**, Byeongjoon Noh* "FLAMe: Federated Learning with Attention Mechanism using Spatio-Temporal Keypoint Transformers for Pedestrian Fall Detection in Smart Cities" **AAAI-25**
 > - **Byeonghun Kim**, Insu Jeon, Chomyong Kim, Jung-Yeon Kim, Jiyoung Woo, and Byeongjoon Noh*, "Caregiver-Child Interaction Detection Model Based on Computer Vision to Measure Social Interaction Skills of Children with Developmental Disabilities", The 6th Engineering in Biomedical and Rehabilitation & Home Conference(EBRC&HOME)
 
