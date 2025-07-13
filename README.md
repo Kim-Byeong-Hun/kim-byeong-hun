@@ -5,6 +5,9 @@
 > - **Undergraduate Student(Department of AI and Big Data)** (2017.03 ~ 2021.02)
 > - **Master's Student(Department of Future Convergence Technology)** (2023.09 ~ 2025.08)
 ---
+> **🏢[Work]**
+> - **Korea Institute of Science and Technology (KIST) Research Intern** (2025.07 ~ Now)
+---
 > **🔎[Research Interest]**
 > - **Computer Vision**
 > - **LLM/MLLM-based Autonomous driving safety system**
@@ -15,7 +18,8 @@
 > **📃[Papers]**
 
 > ***International Journal**
-> - **Byeonghun Kim**, Byeongjoon Noh* "Federated Learning-based Road Surveillance System in Distributed CCTV Environment: Pedestrian Fall Recognition using Spatio-Temporal Attention Networks" **Applied Intelligence**
+> - **[Under Review]** **Byeonghun Kim**, Byeongjoon Noh* "Federated Learning Framework using Keypoint Transformer for Pedestrian Fall Detection on Distributed IoT Devices" **IEEE Internet of Things Journal**
+> - **Byeonghun Kim**, Jaegyun Im, Byeongjoon Noh* "Federated Learning-based Road Surveillance System in Distributed CCTV Environment: Pedestrian Fall Recognition using Spatio-Temporal Attention Networks" **Applied Intelligence**
 > - **Byeonghun Kim**, Byeongjoon Noh*, and Known Song* "Method on Efficient Operation of Multiple Models for Vision-based In-Flight Risky Behavior Recognition in UAM Safety and Security", **Journal of Advanced Transportation**
 
 > ***International Conference***
