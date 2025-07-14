@@ -10,10 +10,8 @@
 ---
 > **🔎[Research Interest]**
 > - **Computer Vision**
-> - **LLM/MLLM-based Autonomous driving safety system**
+> - **LLM/MLLM-based Safety System**
 > - **Personalized Federated Learning**
-> - **Intelligent Transport Systems**
-> - **Traffic Safety Systems**
 ---
 > **📃[Papers]**
 
