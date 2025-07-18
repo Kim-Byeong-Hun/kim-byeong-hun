@@ -2,8 +2,8 @@
   
 #### About me
 > **👨🏼‍🎓[Education]**
-> - **Undergraduate Student(Department of AI and Big Data)** (2017.03 ~ 2021.02)
 > - **Master's Student(Department of Future Convergence Technology)** (2023.09 ~ 2025.08)
+> - **Undergraduate Student(Department of AI and Big Data)** (2017.03 ~ 2021.02)
 ---
 > **🏢[Work]**
 > - **Korea Institute of Science and Technology (KIST) Research Intern** (2025.07 ~ Now)
