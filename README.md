@@ -6,7 +6,8 @@
 > - **Undergraduate Student(Department of AI and Big Data)** (2017.03 ~ 2021.02)
 ---
 > **🏢[Work]**
-> - **Korea Institute of Science and Technology (KIST) Research Intern** (2025.07 ~ Now)
+> - **SpaceVision AI inc. ML Engineer(Vision)** (2025.11 ~ Now)
+> - **Korea Institute of Science and Technology (KIST) Research Intern** (2025.07 ~ 2025.11)
 ---
 > **🔎[Research Interest]**
 > - **Computer Vision**
